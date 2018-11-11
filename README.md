@@ -12,3 +12,8 @@ MaFaRo is a head that suits the GummiArm developed by Martin Stoelen at Plymouth
 >Stoelen, M. F., Bonsignorio, F., & Cangelosi, A. (2016, August). Co-exploring actuator antagonism and bio-inspired control in a printable robot arm. In International Conference on Simulation of Adaptive Behavior (pp. 244-255). Springer, Cham.
 
 [GitHub] https://github.com/GummiArmCE
+
+
+# People Involved
+Metodi Netzev, Quentin Houbre, Eetu Airaksinen, Roel Pieters, Alexandre Angleraud
+Special thanks to: Mika Kiirikki, Petri Virta, Taru Kangas from TUTLab
