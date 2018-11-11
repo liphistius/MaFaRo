@@ -16,4 +16,4 @@ MaFaRo is a head that suits the GummiArm developed by Martin Stoelen at Plymouth
 
 # People Involved
 Metodi Netzev, Quentin Houbre, Eetu Airaksinen, Roel Pieters, Alexandre Angleraud
-Special thanks to: Mika Kiirikki, Petri Virta, Taru Kangas from TUTLab
+Special thanks to: Mika Kiirikki, Petri Virta, Taru Arvio from TUTLab
